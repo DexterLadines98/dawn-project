@@ -117,7 +117,7 @@ slider-component.slider-component-full-width {
 
 .slider.slider--everywhere .slider__slide {
   margin-bottom: 0;
-  scroll-snap-align: center;
+  padding-bottom: 0;
 }
 
 @media screen and (min-width: 990px) {
