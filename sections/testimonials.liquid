@@ -28,7 +28,7 @@
       </div>
     {%- endunless -%}
     <slider-component class="slider-mobile-gutter">
-      <ul class="multicolumn-list  grid grid--1-col{% if section.blocks.size > 3 and section.settings.image_width != 'full' %} grid--2-col-tablet grid--4-col-desktop{% elsif section.blocks.size > 3 and section.settings.image_width == 'full' %} grid--2-col-tablet{% else %} grid--3-col-tablet {% endif %} slider slider--mobile grid--peek slider--everywhere"
+      <ul class="multicolumn-list  grid grid--1-col{% if section.blocks.size > 3 and section.settings.image_width != 'full' %} grid--2-col-tablet grid--4-col-desktop{% elsif section.blocks.size > 3 and section.settings.image_width == 'full' %} grid--2-col-tablet{% else %} grid--3-col-tablet{% endif %} slider slider--mobile grid--peek slider--everywhere"
         id="Slider-{{ section.id }}"
         role="list"
       >
@@ -93,7 +93,7 @@
       </ul>
 
       
-        <div class="slider-buttons no-js-hidden {% if section.blocks.size < 5 %} large-up-hide{% endif %} {% if section.blocks.size <= 3 %} medium-hide{% endif %}{% if section.blocks.size < 2 %} small-hide{% endif%}">
+        <div class="slider-buttons no-js-hidden {% if section.blocks.size < 5 %} large-up-hide{% endif %}{% if section.blocks.size <= 3 %} medium-hide{% endif %}{% if section.blocks.size < 2 %} small-hide{% endif%}">
           <button type="button" class="slider-button slider-button--prev" name="previous" aria-label="{{ 'general.slider.previous_slide' | t }}">{% render 'icon-caret' %}</button>
           <div class="slider-counter caption">
             <span class="slider-counter--current">1</span>
