@@ -1,0 +1,212 @@
+{
+  "sections": {
+    "1656652786611dbf4e": {
+      "type": "slideshow",
+      "blocks": {
+        "1656652786fec86115-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carousel1.jpg",
+            "heading": "ANIMEOS",
+            "heading_size": "h1",
+            "subheading": "Welcome to Animeos! Your One-stop Shop for your Favorite Anime",
+            "button_label": "See Products",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 20,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "0cce99db-26b7-4bd8-8dc5-a3a2edc80c31": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carousel3.jpg",
+            "heading": "ANIMEOS",
+            "heading_size": "h1",
+            "subheading": "Welcome to Animeos! Your One-stop Shop for your Favorite Anime",
+            "button_label": "See Products",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 60,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1656652786fec86115-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/carousel2.jpg",
+            "heading": "ANIMEOS",
+            "heading_size": "h1",
+            "subheading": "Welcome to Animeos! Your One-stop Shop for your Favorite Anime",
+            "button_label": "See Products",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 70,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1656652786fec86115-1",
+        "0cce99db-26b7-4bd8-8dc5-a3a2edc80c31",
+        "1656652786fec86115-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Best Seller Collection",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": true,
+        "description_style": "uppercase",
+        "collection": "best-seller-collection",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-2",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "16566518648295caed": {
+      "type": "rich-text",
+      "blocks": {
+        "1656651864af01c2ab-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>About this Figurine Characters<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "1656651864af01c2ab-0"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/demon.jpg",
+            "title": "Demon Slayer",
+            "text": "<p><strong>Demon Slayer<\/strong> is one of the popular anime today. It follows teenage <strong>Tanjiro Kamado<\/strong>, who strives to become a demon slayer after his family was slaughtered and his younger sister, Nezuko, turned into a demon.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/my_hero_academia.jpg",
+            "title": "My Hero Academia",
+            "text": "<p><strong>My Hero Academia <\/strong>story follows <strong>Izuku Midoriya<\/strong>, a boy born without superpowers in a world where they have become commonplace, but who still dreams of becoming a superhero himself.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/jujutsu_kaisen.jpg",
+            "title": "Jujutsu Kaisen",
+            "text": "<p><strong>Jujutsu Kaisen<\/strong> centers on a high school student named <strong>Yuji Itadori<\/strong>, who swallows a rotting finger that belonged to a powerful Curse and subsequently becomes possessed. Jujutsu Sorcerers sentence him to death by exorcism, but before that happens, he's tasked with finding and consuming the Curse's remaining fingers<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "1656652786611dbf4e",
+    "featured_collection",
+    "rich_text",
+    "16566518648295caed",
+    "multicolumn"
+  ]
+}
