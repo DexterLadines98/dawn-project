@@ -1,12 +1,16 @@
 .logo-container {
     display: flex;
     justify-content: space-between;
+    padding-top: 50px;
 }
 
 .logo-link {
     max-width: 25%;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 img {
-    width: 100% ;
+    width: 50% ;
 }
