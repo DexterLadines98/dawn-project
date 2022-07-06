@@ -1,0 +1,12 @@
+.logo-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-link {
+    max-width: 25%;  
+}
+
+img {
+    width: 100% ;
+}
