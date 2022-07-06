@@ -228,6 +228,10 @@
   display: flex;
 }
 
+.icon-quote {
+    width: 12px;
+    height: 12px;
+}
 @media screen and (min-width: 990px) {
   .multicolumn-list__item--empty {
     display: list-item;
